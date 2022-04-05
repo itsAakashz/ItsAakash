@@ -1,5 +1,7 @@
 # Telegram Happy Birthday Bot
 
+[![deploy to heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zatrop/ItsAakash.git )
+
 ## Link: https://t.me/Bot_Happy_Birthday_Bot
 
 ## Often forgetting when the birthday of your friend is? This won’t happen again!
