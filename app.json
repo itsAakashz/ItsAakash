@@ -1,11 +1,10 @@
 {
     "name": "birthdaybot",
-    "description": "ItsAakash",
+    "description": "Birthday bot",
     "stack": "container",
     "keywords": [
       "telegram",
-      "pyrogram"
-      "search",
+      "pyrogram",
     ],
     "website": "https://github.com/illuzX",
     "repository": "https://github.com/zatrop/ItsAakash",
