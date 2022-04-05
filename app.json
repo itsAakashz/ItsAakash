@@ -1,1 +1,43 @@
+© IlluzX 
+{
+    "name": "movie_info_bot",
+    "description": "search Movie Is Info",
+    "stack": "container",
+    "keywords": [
+      "telegram",
+      "pyrogram"
+      "search",
+    ],
+    "website": "https://github.com/illuzX",
+    "repository": "https://github.com/illuzX/my_project",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your bot token.",
+            "required": true
+        },
+        "API_ID": {
+            "description": "Get this value from https://my.telegram.org",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "Get this value from https://my.telegram.org",
+            "required": true
+        },
+
+        "BOT_OWNER": {
+            "description": "Get this value From @meenukutty_bot Send /id",
+            "required": true
+    },
+    "addons": [],
+    "buildpacks": [{
+        "url": "heroku/python"
+    }],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
+}
 
