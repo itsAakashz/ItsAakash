@@ -1,7 +1,6 @@
-© IlluzX 
 {
     "name": "movie_info_bot",
-    "description": "search Movie Is Info",
+    "description": "ItsAakash",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -9,7 +8,7 @@
       "search",
     ],
     "website": "https://github.com/illuzX",
-    "repository": "https://github.com/illuzX/my_project",
+    "repository": "https://github.com/zatrop/ItsAakash",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
