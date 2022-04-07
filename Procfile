@@ -1,1 +1,1 @@
-<clock: <rake>
+clock: rake
