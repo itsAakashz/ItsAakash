@@ -10,20 +10,20 @@
     "repository": "https://github.com/zatrop/ItsAakash",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "5504112672:AAEdDC91pKXZD12i1n6_rkYCz3o8bBDf38s",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "11457698",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "5bfd698491bd1a495c2acd0842c65b90",
             "required": true
         },
 
         "BOT_OWNER": {
-            "description": "Get this value From @meenukutty_bot Send /id",
+            "description": "1097379245",
             "required": true
     },
     "addons": [],
